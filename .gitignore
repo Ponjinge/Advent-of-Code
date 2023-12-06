@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Index Files for challenges
+*/input.txt
+
 # IPython
 profile_default/
 ipython_config.py
