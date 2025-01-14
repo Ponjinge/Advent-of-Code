@@ -2,4 +2,4 @@
 Advent of Code problems , with attempts made by myself
 
 ### 2023 FINISHED (50*) 
-### 2024 DOING
+### 2024 FINISHED (50*)
